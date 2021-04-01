@@ -1,6 +1,6 @@
 # moneymanager
 
-A Money Mangment App
+A Money Managment App
 
 ## Getting Started
 
